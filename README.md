@@ -1,16 +1,14 @@
-## Hi there 👋
+# Tejaswini Muntha
 
-<!--
-**tejaswini-muntha/Tejaswini-Muntha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+MBA student in Business Analytics at LPU. Looking for internship and job roles in business and data analytics.
 
-Here are some ideas to get you started:
+## Skills
+- Excel
+- Python
+- SQL
+- Power BI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contact
+- LinkedIn: www.linkedin.com/in/tejaswini-muntha
+- Email: tejaswini.muntha10@gmail.com
